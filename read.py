@@ -23,3 +23,25 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+"""
+OUTPUT:
+
+rudra@rudran:~/python$ python read.py hello.py 
+the datatype of veriable 'f' is <type 'file'>
+============================================
+the datatype of variable 'string' is <type 'str'>
+==================================================
+"#!/usr/bin/python -tt\n#define the main() function that prints Hello world\ndef main():\n\tprint 'Hello world'\n#standard boiler plate syntax that calls the main() function.\n\nif __name__ == '__main__':\n\tmain()\n\n"
+==================================================
+#!/usr/bin/python -tt
+#define the main() function that prints Hello world
+def main():
+	print 'Hello world'
+#standard boiler plate syntax that calls the main() function.
+
+if __name__ == '__main__':
+	main()
+
+
+"""
